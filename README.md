@@ -13,6 +13,11 @@ This project aims to **scrape contact data** from architectural engineering comp
 
 ---
 
+## 📷 Architectural Engineering Companies preview 
+![Architectural Engineering Companies preview ](Image.png)
+
+-----
+
 ## 🛠️ Technologies Used
 - **Python** – main programming language.  
 - **Beautiful Soup** – parsing HTML and extracting information.  
@@ -20,5 +25,4 @@ This project aims to **scrape contact data** from architectural engineering comp
 - **Pandas** – storing and manipulating scraped data.  
 - **Excel / CSV** – export of structured datasets.  
 
----
 
