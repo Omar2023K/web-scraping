@@ -14,7 +14,7 @@ This project aims to **scrape contact data** from architectural engineering comp
 ---
 
 ## 📷 Architectural Engineering Companies preview 
-![Architectural Engineering Companies preview ](Image.png)
+![Architectural Engineering Companies preview ](compaines_data.png)
 
 -----
 
